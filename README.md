@@ -3,6 +3,13 @@
 
 This repository contains several Python scripts developed for processing Nuclear Magnetic Resonance (NMR) data, managing and manipulating CSV files, and performing machine learning (ML) regression tasks. Below is a detailed overview of each script, its purpose, usage instructions, and additional relevant information.
 
+## Input data availability
+
+This repository also contains input data files that are essential for the proper functioning of several scripts. 
+The archive **Input_data.rar** contains all the CSV files with input data for ML computations, 
+including reduced spectra combined with corresponding logD parameters in the rows of the feature space matrix and labels.
+These input files are crucial for running the calculations and must be placed in the correct directories for successful execution.
+
 ## Table of Contents
 - [add_12_zero_columns_at_the_end.py](#add_12_zero_columns_at_the_endpy)
 - [bucket_integration_dir.py](#bucket_integration_dirpy)
