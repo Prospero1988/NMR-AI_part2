@@ -1,4 +1,7 @@
-![Logo](logo.png)
+<div align="center">
+  <img src="logo.png" alt="LOGO"/>
+</div>
+
 # NMR Data Processing and Machine Learning Scripts
 
 This repository contains several Python scripts developed for processing Nuclear Magnetic Resonance (NMR) data, managing and manipulating CSV files, and performing machine learning (ML) regression tasks. Below is a detailed overview of each script, its purpose, usage instructions, and additional relevant information.
