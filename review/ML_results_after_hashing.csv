@@ -1,0 +1,7 @@
+File,Averaged RMSE,Standard Deviation of RMSE,MAE values,R2 values,Execution Time (seconds)
+chiLogD_105_hashed_IDs,1.357,0.154,1.023,-0.214,2.56
+chiLogD_74_hashed_IDs,1.083,0.131,0.858,-0.158,2.59
+chiLogD_26_hashed_IDs,1.42,0.096,1.092,-0.232,2.6
+chromLogD_105_hashed_IDs,2.309,0.319,1.698,-0.201,2.91
+chromLogD_26_hashed_IDs,2.457,0.2,1.919,-0.183,2.95
+chromLogD_74_hashed_IDs,1.911,0.164,1.487,-0.148,2.98
